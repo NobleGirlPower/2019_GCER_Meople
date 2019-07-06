@@ -10,7 +10,7 @@ int arm_valve = arm_max - 225;
 int arm_mats = arm_max - 105;
 int arm_min = 1700 - 1600;
 int hand_max = 1700;
-int hand_min = 1700 - 900;
+int hand_min = 1700 - 1100;
 int hand_mats = 1700 - 900;
 //int hand_prism_close;
 int hand_start = 1700;
